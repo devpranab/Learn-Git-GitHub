@@ -58,6 +58,7 @@ veriable setup: git config --global user.name "Pranav Sarkar"
     >git diff --staged - stage-last commit compare
     >git diff 04496d4 3fg88c6 - two commit compare
     >git commit -m "first commit" - checkpoint commit
+    >git log --stat -M - show all commit logs with indication of any paths that moved
     >git reset HEAD~ - commit rollback
     >git log - show all commit
     >git log --oneline - show all commit
@@ -117,6 +118,7 @@ for change code keeping old code
     >git merge oneTask -m "conflict" - merge with oneTask(master)
     >git checkout oneTask
     >git push -u origin oneTask - upload oneTask branch to
+    >git rebase [branch] - apply any commits of current branch ahead of specified one
     
     <!-- merge conflict problem -->
 </pre>

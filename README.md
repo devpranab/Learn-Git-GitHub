@@ -168,6 +168,7 @@ Download GitHub Desktop >
    "terminal.integrated.defaultProfile.windows": "bash",
    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe"
 </pre>
+<img src="https://i.ibb.co/0BDyxht/git-cheat-sheet-large.png" alt="git-cheat-sheet-large" border="0">
 <hr/>
 <h2>Git Error Fixing :</h2>
 <pre>

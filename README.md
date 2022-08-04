@@ -162,7 +162,6 @@ Credential Manager > Windows Credential > Generic Credential > git:https://githu
 <pre>
 Download GitHub Desktop > 
 </pre>
-
 <h5>Default Terminal -settings.json</h5>
 <pre>
    "terminal.integrated.defaultProfile.windows": "bash",
@@ -170,6 +169,11 @@ Download GitHub Desktop >
 </pre>
 <img src="https://i.ibb.co/0BDyxht/git-cheat-sheet-large.png" alt="git-cheat-sheet-large" border="0">
 <hr/>
+<h4>GitHub Issues :</h4>
+<pre>
+Issues > issue name -Assigness -set Filter labels > Submit new issue
+after solving issue commit with issue id
+</pre>
 <h2>Git Error Fixing :</h2>
 <pre>
 01. PROBLEM: $ git push -u origin main
